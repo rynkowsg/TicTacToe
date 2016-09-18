@@ -43,5 +43,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+#########################
 # Greg's configuration
 .idea
+.DS_Store

@@ -1,2 +1,5 @@
 /build
 /jniLibs
+
+# assets/ contains copies of files from Resources/
+/assets
